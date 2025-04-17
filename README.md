@@ -11,11 +11,11 @@ CORS (Cross-Origin Resource Sharing) yapılandırmasını Program.cs dosyası ü
 
 Proje klasör yapısını iki ana başlık altında organize ettim: Backend kodları mycv-websiteAPI, frontend kodları ise mycv-websiteUI klasörlerinde yer alıyor. Bu modüler yapı, kodun okunabilirliğini ve bakımını önemli ölçüde artırdı.
 
-Geliştirme sürecinde temiz kod ilkelerine ve sürdürülebilir mimariye dikkat ettim. Frontend tarafında bileşen bazlı yapı, backend tarafında servis bazlı organizasyon ter<img width="1437" alt="Ekran Resmi 2025-04-17 20 35 42" src="https://github.com/user-attachments/assets/3fab53c1-b17f-48b6-92df-5ab09adf0e3a" />
-cih ettim. Hedefim yalnızca çalışan bir proje sunmak değil, aynı zamanda ileride geliştirilmeye açık, test edilebilir ve genişletilebilir bir altyapı oluşturmaktı.
+Geliştirme sürecinde temiz kod ilkelerine ve sürdürülebilir mimariye dikkat ettim. Frontend tarafında bileşen bazlı yapı, backend tarafında servis bazlı organizasyon tercih ettim. Hedefim yalnızca çalışan bir proje sunmak değil, aynı zamanda ileride geliştirilmeye açık, test edilebilir ve genişletilebilir bir altyapı oluşturmaktı.
 
 Bu proje, React ve ASP.NET Core 9 teknolojilerinin Docker ve PostgreSQL ile birlikte nasıl entegre çalışabileceğine dair pratik bir örnek sunmakta. Aynı zamanda kişisel portföyümde hem teknik bilgi birikimimi hem de yazılım geliştirme disiplinimi sergileyen önemli bir parça olarak yer almaktadır.
 
+<img width="1437" alt="Ekran Resmi 2025-04-17 20 35 10" src="https://github.com/user-attachments/assets/17cc374f-1004-477e-9bf3-06642276eb2d" />
 <img width="1437" alt="Ekran Resmi 2025-04-17 20 35 23" src="https://github.com/user-attachments/assets/a2a41ee9-0f40-4ab4-9430-fc2d146b92b2" />
 <img width="1437" alt="Ekran Resmi 2025-04-17 20 35 35" src="https://github.com/user-attachments/assets/7b28583e-de3b-4251-a4a1-fd1367e159c4" />
 <img width="1437" alt="Ekran Resmi 2025-04-17 20 35 42" src="https://github.com/user-attachments/assets/ab0dda3a-f11f-453a-89a0-1fc454422f0f" />
