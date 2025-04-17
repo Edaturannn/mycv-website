@@ -1,3 +1,4 @@
+<h1>mycv-website/</h1>
 Bu projeyi, kişisel CV'mi dijital bir platformda modern ve etkileşimli bir şekilde sunmak amacıyla geliştirdim. Backend kısmını ASP.NET Core 9 ile oluşturdum. RESTful API mimarisi sayesinde verileri kontrollü ve güvenli bir şekilde dış dünyaya sundum. Bu API yapısı, React tabanlı kullanıcı arayüzümün dinamik olarak içerikleri API'den almasını sağladı.
 
 Frontend tarafını React kütüphanesiyle geliştirdim ve arayüzü tamamen responsive (mobil uyumlu) olacak şekilde tasarladım. Kullanıcı arayüzündeki verileri Axios kütüphanesiyle backend API'den çektim. Böylece istemci ile sunucu arasında hızlı, senkronize ve modern bir veri alışverişi kurmuş oldum.
