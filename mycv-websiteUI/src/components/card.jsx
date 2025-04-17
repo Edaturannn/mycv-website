@@ -8,7 +8,7 @@ export default function Card() {
             <section class="about-section" id="about">
                 <div class="about-container">
                     <div class="about-image">
-                        <img src alt="Profil Fotoğrafı" />
+                        <img src={Resim} alt="Profil Fotoğrafı" />
                     </div>
                     <div class="about-text">
                         <h1>Ben Kimim?</h1>
