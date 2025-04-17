@@ -16,7 +16,6 @@ cih ettim. Hedefim yalnızca çalışan bir proje sunmak değil, aynı zamanda i
 
 Bu proje, React ve ASP.NET Core 9 teknolojilerinin Docker ve PostgreSQL ile birlikte nasıl entegre çalışabileceğine dair pratik bir örnek sunmakta. Aynı zamanda kişisel portföyümde hem teknik bilgi birikimimi hem de yazılım geliştirme disiplinimi sergileyen önemli bir parça olarak yer almaktadır.
 
-<img width="1437" alt="Ekran Resmi 2025-04-17 20 35 10" src="https://github.com/user-attachments/assets/52bf1156-bbd5-4636-95fa-f1b63c4c353b" />
 <img width="1437" alt="Ekran Resmi 2025-04-17 20 35 23" src="https://github.com/user-attachments/assets/a2a41ee9-0f40-4ab4-9430-fc2d146b92b2" />
 <img width="1437" alt="Ekran Resmi 2025-04-17 20 35 35" src="https://github.com/user-attachments/assets/7b28583e-de3b-4251-a4a1-fd1367e159c4" />
 <img width="1437" alt="Ekran Resmi 2025-04-17 20 35 42" src="https://github.com/user-attachments/assets/ab0dda3a-f11f-453a-89a0-1fc454422f0f" />
