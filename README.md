@@ -19,4 +19,5 @@ Bu proje, React ve ASP.NET Core 9 teknolojilerinin Docker ve PostgreSQL ile birl
 <img width="1437" alt="Ekran Resmi 2025-04-17 20 35 23" src="https://github.com/user-attachments/assets/a2a41ee9-0f40-4ab4-9430-fc2d146b92b2" />
 <img width="1437" alt="Ekran Resmi 2025-04-17 20 35 35" src="https://github.com/user-attachments/assets/7b28583e-de3b-4251-a4a1-fd1367e159c4" />
 <img width="1437" alt="Ekran Resmi 2025-04-17 20 35 42" src="https://github.com/user-attachments/assets/ab0dda3a-f11f-453a-89a0-1fc454422f0f" />
+<img width="1437" alt="Ekran Resmi 2025-04-17 20 35 49" src="https://github.com/user-attachments/assets/bf440de1-78e1-4945-a7b5-2ee40d014a3e" />
 <img width="1437" alt="Ekran Resmi 2025-04-17 20 36 09" src="https://github.com/user-attachments/assets/e581736e-9508-43b2-a77d-841e0ced06ab" />
