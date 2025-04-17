@@ -4,11 +4,13 @@ import Navbar from './components/navbar'
 import Card from './components/card'
 import Project from './components/project'
 import Contact from './components/contact'
+import Footer from './components/footer'
 
 import './css/navbar.css'
 import './css/card.css'
 import './css/project.css'
 import './css/contact.css'
+import './css/footer.css'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
@@ -16,5 +18,6 @@ createRoot(document.getElementById('root')).render(
     <Card />
     <Project />
     <Contact />
+    <Footer />
   </StrictMode>
 )

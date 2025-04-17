@@ -10,6 +10,8 @@ export default function Project() {
 
                     <div class="project-card">
                         <h3>CareerBridge</h3>
+                        <img src='' />
+                        <br />
                         <p>
                             CareerBridge, kullanıcıların güvenli bir şekilde kayıt olup giriş yapabildiği, rollerine
                             göre yönlendirildiği ve yapay zeka destekli kariyer danışmanlığı alabileceği modern
@@ -18,11 +20,13 @@ export default function Project() {
                             planı oluşturabilir. Uygulama, bireylerin daha bilinçli ve hedef odaklı kariyer kararları
                             almasına yardımcı olmayı hedeflemektedir.
                         </p>
-                        <a href="https://github.com/Edaturannn/CareerBridge">Projeye Git</a>
+                        <a href="https://github.com/Edaturannn/CareerBridge"><b>Projeye Git</b></a>
                     </div>
 
                     <div class="project-card">
                         <h3>MyPersonalSpace</h3>
+                        <img src='' />
+                        <br />
                         <p>
                             MyPersonalSpace, kullanıcıların güvenli bir şekilde kayıt olup giriş yapabildiği, kendi
                             içeriklerini oluşturup yönetebildiği ve görsel paylaşımlarını bulut ortamında
@@ -30,11 +34,13 @@ export default function Project() {
                             teknolojileri ile inşa edilerek güvenlik, performans ve erişilebilirlik açısından yüksek
                             standartlara sahiptir.
                         </p>
-                        <a href="https://github.com/Edaturannn/MyPersonalSpace">Projeye Git</a>
+                        <a href="https://github.com/Edaturannn/MyPersonalSpace"><b>Projeye Git</b></a>
                     </div>
 
                     <div class="project-card">
                         <h3>Hotel Booking App</h3>
+                        <img src='' />
+                        <br />
                         <p>
                             Hotel_Project, kullanıcıların online otel rezervasyonu yapabilmesini, yöneticilerin ise
                             otel, oda ve kullanıcı bilgilerini yönetebilmesini sağlayan tam kapsamlı bir otel
@@ -43,7 +49,7 @@ export default function Project() {
                             dış servislerle entegre edilerek hem kullanıcı deneyimini hem de yönetsel işlemleri
                             zenginleştirmektedir.
                         </p>
-                        <a href="https://github.com/Edaturannn/Hotel_Project">Projeye Git</a>
+                        <a href="https://github.com/Edaturannn/Hotel_Project"><b>Projeye Git</b></a>
                     </div>
 
                 </div>
